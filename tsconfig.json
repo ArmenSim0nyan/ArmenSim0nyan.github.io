@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "jsx": "preserve",
+      "jsxImportSource": "solid-js",
+      "module": "ESNext",
+      "esModuleInterop": true,
+      "target": "ESNext",
+      "moduleResolution": "node",
+      "allowSyntheticDefaultImports": true,
+      "sourceMap": true,
+      "outDir": "dist"
+    },
+    "lib": [ "es2015" ]
+  }
+  
